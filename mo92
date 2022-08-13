@@ -1,0 +1,3 @@
+let n: number;
+n=22;
+console.log(n)
